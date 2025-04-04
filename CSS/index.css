@@ -1,7 +1,7 @@
 body {
     background-image: url('../static/start_bg.png');
     background-repeat: no-repeat;
-    background-position: right top;
+    background-attachment: fixed;
 }
 
 h2 {
