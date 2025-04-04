@@ -8,10 +8,12 @@ body {
     background-attachment: fixed;
 }
 
-h2 {
-    position: relative;
-    left: 50%;
-    top: 50%;
-    bottom: 50%;
-    right: inherit;
+body div {
+    margin-top: 40%;
+    margin-bottom: 30%;
+    margin-right: 50%;
+    margin-left: 50%;
+    height: 100px;
+    width: 100px;
+    background: #8a694338;
 }
