@@ -5,3 +5,11 @@ body {
     background-repeat: no-repeat;
     background-position: right top;
 }
+
+h2 {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    bottom: 50%;
+    right: inherit;
+}
